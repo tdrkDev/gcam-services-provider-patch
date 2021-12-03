@@ -2,7 +2,7 @@
 Ofc for recovery
 
 ## IMPORTANT
-GCam Services Provider is not my project and I just did patch for TWRP.
+GCam Services Provider is not my project and I've just made patch for TWRP.
 Project's page: https://github.com/lukaspieper/Gcam-Services-Provider
 
 ## What it offers
